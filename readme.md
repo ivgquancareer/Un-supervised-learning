@@ -1,3 +1,7 @@
+# **PROJECT: ANALYZE WITH CLUSTERING**
+
+![image](https://user-images.githubusercontent.com/131565885/235119922-ccceab26-cd2f-4a7d-b0d9-35f01f9fa7a8.png)
+
 # **I. Dataset Overview**
 **Let's take a look at the dataset**
 ```php
