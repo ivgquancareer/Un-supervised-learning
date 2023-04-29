@@ -1,6 +1,6 @@
 # **PROJECT: ANALYZE WITH CLUSTERING**
 
-![image](https://user-images.githubusercontent.com/131565885/235120432-76348a94-3ddc-470c-b0b9-0df2d1aea23d.png)
+![image](https://user-images.githubusercontent.com/131565885/235280237-30cd5bad-bded-4956-80fb-c1111684825b.png)
 
 # **I. Dataset Overview**
 **Let's take a look at the dataset**
